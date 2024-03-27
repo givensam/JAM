@@ -2,7 +2,7 @@
     "jams": [
     {
       "id": 1,
-      "name":"Preserved Lemon Paste",
+      "jamName":"Preserved Lemon Paste",
       "type": "Spread",
       "brand":"New York Shuk",
       "ingredient":"Lemons",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "name":"Apple Butter",
+      "jamName":"Apple Butter",
       "type": "Spread",
       "brand":"Cellar Door Artisan Preserves",
       "ingredient":"Apples",
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "name": "Sugar Free Blueberry Preserves",
+      "jamName": "Sugar Free Blueberry Preserves",
       "type": "Preserves",
       "brand": "Nature's Hollow",
       "ingredient": "Blueberries",
@@ -38,7 +38,7 @@
     },
     {
       "id": 4,
-      "name": "Sugar Free Mountain Berry Preserve",
+      "jamName": "Sugar Free Mountain Berry Preserve",
       "type": "Preserves",
       "brand": "Nature's Hollow",
       "ingredient": "Water",
@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "name": "Sugar Free Raspberry Jam",
+      "jamName": "Sugar Free Raspberry Jam",
       "type": "Jam",
       "brand": "Nature's Hollow",
       "ingredient": "Raspberries",
