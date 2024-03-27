@@ -1,0 +1,66 @@
+{
+    "jams": [
+    {
+      "id": 1,
+      "name":"Preserved Lemon Paste",
+      "type": "Spread",
+      "brand":"New York Shuk",
+      "ingredient":"Lemons",
+      "organic":"No",
+      "measure": "US",
+      "calories": 0.38,
+      "size": 10,
+      "price": "$1.20"
+    },
+    {
+      "id": 2,
+      "name":"Apple Butter",
+      "type": "Spread",
+      "brand":"Cellar Door Artisan Preserves",
+      "ingredient":"Apples",
+      "organic":"No",
+      "measure": "US",
+      "calories": 0.5,
+      "size": 9,
+      "price": "$1.44"
+    },
+    {
+      "id": 3,
+      "name": "Sugar Free Blueberry Preserves",
+      "type": "Preserves",
+      "brand": "Nature's Hollow",
+      "ingredient": "Blueberries",
+      "organic": "No",
+      "measure": "US",
+      "calories": 0.75,
+      "size": 10,
+      "price": "$0.60"
+    },
+    {
+      "id": 4,
+      "name": "Sugar Free Mountain Berry Preserve",
+      "type": "Preserves",
+      "brand": "Nature's Hollow",
+      "ingredient": "Water",
+      "organic": "No",
+      "measure": "US",
+      "calories": 0.75,
+      "size": 10,
+      "price": "$0.60"
+    },
+    {
+      "id": 5,
+      "name": "Sugar Free Raspberry Jam",
+      "type": "Jam",
+      "brand": "Nature's Hollow",
+      "ingredient": "Raspberries",
+      "organic": "No",
+      "measure": "No",
+      "calories": 0.75,
+      "size": 10,
+      "price": "$0.60"
+    }
+
+    
+  ]
+  }
